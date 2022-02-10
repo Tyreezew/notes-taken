@@ -1,5 +1,6 @@
 # Notes-Taken
 
+https://github.com/Tyreezew/notes-taken
 https://notes-taken2.herokuapp.com
 
 # Description 
@@ -21,3 +22,12 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ![Screen Shot 2022-02-10 at 3 08 32 PM](https://user-images.githubusercontent.com/43646678/153496683-e84d30a4-40fd-476a-90ec-d1aeb57e6add.png)
 
+# Technologies Use
+- Express.js
+- Node.js
+- Npm
+- uuid
+- Bootstrap
+
+# Contributor
+https://github.com/Tyreezew
